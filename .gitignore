@@ -1,0 +1,21 @@
+# Compiled executables
+*.exe
+*.out
+*.dll
+
+# Object files
+*.o
+*.obj
+
+# Build directories (adjust if needed)
+build/
+bin/
+
+# VS Code specific
+.vscode/launch.json # Often user-specific paths
+.vscode/tasks.json  # Often user-specific paths
+# Note: Some prefer to commit these if they are generic
+
+# Other common temporary files
+*.log
+*.tmp
